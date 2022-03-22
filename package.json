@@ -1,5 +1,6 @@
 {
   "name": "hello-vue3",
+  "homepage": "https://jacobhsu.github.io/hello-vue3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
